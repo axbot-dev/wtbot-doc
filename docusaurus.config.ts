@@ -8,7 +8,7 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://axbot-dev.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/wtbot-doc',
@@ -18,7 +18,7 @@ const config: Config = {
   organizationName: 'axbot-dev', // Usually your GitHub org/user name.
   projectName: 'wtbot-doc', // Usually your repo name.
   trailingSlash: false,
-  
+
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
