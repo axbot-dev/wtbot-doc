@@ -12,7 +12,11 @@ WTBot 本身是由独立开发者开发的非官方的机器人，不过 WTBot �
 
 ### 和 Gaijin 的关系
 
-本机器人不归属于 Gaijin 或者 WarThunder 官方。WTBot 仅仅是一个第三方机器人，它的数据来源是 Gaijin 或者 WarThunder 提供的公开数据。
+本机器人不归属于 Gaijin 或者 WarThunder 官方。WTBot 是一个第三方机器人，它的数据来源是 Gaijin 或者 WarThunder 提供的公开数据。
+
+### 我要怎么使用 WTBot？
+
+话不多说，查看 [快速开始](./quick-start)，了解如何使用机器人。
 
 ## WTBot 能做些什么
 
