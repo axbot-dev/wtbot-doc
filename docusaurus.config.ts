@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'WTBot',
   tagline: 'WTbot是一个专注于和《战争雷霆》的数据打交道的聊天机器人',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/wtbot.ico',
 
   // Set the production url of your site here
   url: 'https://axbot-dev.github.io/',
@@ -55,7 +55,7 @@ const config: Config = {
       title: 'WTBot',
       logo: {
         alt: 'WTBot Logo',
-        src: 'img/logo.svg',
+        src: 'img/wtbot.webp',
       },
       items: [
         {
@@ -120,7 +120,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} WTbot, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} WTBot, AXBot 开发组. 使用 Docusaurus 构建.`,
     },
     announcementBar: {
       id: 'announcement',

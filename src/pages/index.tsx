@@ -20,7 +20,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/usage/introduction/what-is-wtbot">
-            从这里开始
+            ✨从这里开始
           </Link>
         </div>
       </div>
