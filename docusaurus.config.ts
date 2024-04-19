@@ -100,23 +100,27 @@ const config: Config = {
               label: 'KOOK服务器',
               href: 'https://kook.top/eUTZK7',
             },
-            // {
-            //   label: 'Discord',
-            //   href: 'https://discordapp.com/invite/docusaurus',
-            // },
-            // {
-            //   label: 'Twitter',
-            //   href: 'https://twitter.com/docusaurus',
-            // },
+            {
+              label: 'QQ群',
+              href: 'https://qm.qq.com/q/LfXCP7ccYo',
+            },
+            {
+              label: "开发者B站",
+              href: "https://space.bilibili.com/8696650",
+            }
           ],
         },
         {
           title: '更多',
           items: [
             {
-              label: '问题反馈',
+              label: '在GitHub上反馈问题',
               href: 'https://github.com/axbot-dev/wtbot-feedback',
             },
+            {
+              label: '文档 GitHub',
+              href: 'https://github.com/axbot-dev/wtbot-doc',
+            }
           ],
         },
       ],
@@ -131,8 +135,9 @@ const config: Config = {
       isCloseable: false,
     },
     prism: {
-      theme: prismThemes.github,
+      theme: prismThemes.vsDark,
       darkTheme: prismThemes.dracula,
+      additionalLanguages: ['bash'],
     },
   } satisfies Preset.ThemeConfig,
 };
