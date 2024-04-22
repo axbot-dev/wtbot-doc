@@ -129,7 +129,7 @@ const config: Config = {
     announcementBar: {
       id: 'announcement',
       content:
-        '文档正在建设中，可能还存在不完善的地方，敬请谅解',
+        '因 WTBot 正在快速迭代开发中，文档内容可能不会是最新的，请以实际表现为准',
       // backgroundColor: '#fafbfc',
       // textColor: '#091E42',
       isCloseable: false,
