@@ -89,7 +89,7 @@ const config: Config = {
             },
             {
               label: '数据介绍',
-              to: '/docs/data/',
+              to: '/docs/data/warthunder/source',
             }
           ],
         },
