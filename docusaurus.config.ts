@@ -139,6 +139,26 @@ const config: Config = {
       darkTheme: prismThemes.dracula,
       additionalLanguages: ['bash'],
     },
+    algolia: {
+      // The application ID provided by Algolia
+      appId: 'TMBRY8QCIY',
+
+      // Public API key: it is safe to commit it
+      apiKey: '65d57be57b04a33fc41a10ea67fbae7c',
+
+      indexName: 'axbot-devio',
+
+      // Optional: see doc section below
+      contextualSearch: true,
+
+      // Optional: path for search page that enabled by default (`false` to disable it)
+      searchPagePath: 'search',
+
+      // Optional: whether the insights feature is enabled or not on Docsearch (`false` by default)
+      insights: true,
+
+      //... other Algolia params
+    }
   } satisfies Preset.ThemeConfig,
 };
 
