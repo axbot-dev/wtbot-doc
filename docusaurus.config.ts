@@ -144,7 +144,7 @@ const config: Config = {
       appId: 'TMBRY8QCIY',
 
       // Public API key: it is safe to commit it
-      apiKey: '65d57be57b04a33fc41a10ea67fbae7c',
+      apiKey: 'c30af31f4b1fcb0df72c52e665899192',
 
       indexName: 'axbot-devio',
 
